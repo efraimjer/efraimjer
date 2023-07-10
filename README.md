@@ -4,7 +4,7 @@ Hi 👋 My name is Efraim Jerszurki
 Front-end developer
 -------------------
 
-Working my ass off to develop cool things, one day at a time
+Working my ass off to develop cool things, one day at a tim
 
 *   🌍  I'm based in Brasil
 *   ✉️  You can contact me at [contato@letecacom.com](mailto:contato@letecacom.com)
