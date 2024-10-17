@@ -7,7 +7,7 @@ Front-end developer
 Working my ass off to develop cool things, one day at a tim
 
 *   🌍  I'm based in Brasil
-*   ✉️  You can contact me at [contato@letecacom.com](mailto:contato@letecacom.com)
+*   ✉️  You can contact me at [contato@winnertv.com.br](mailto:contato@winnertv.com.br)
 *   🧠  I'm learning Flutter
 *   🤝  I'm open to collaborating on OpenSource React Projects
 
